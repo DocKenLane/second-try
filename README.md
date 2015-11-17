@@ -1,2 +1,2 @@
 # second-try
-getting used to github
+This repo follows Hello World example
